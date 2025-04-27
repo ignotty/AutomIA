@@ -10,8 +10,9 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AutomIA - Soluções de Automação com IA</title>
-        <meta name="description" content="Venda de automações inteligentes com IA. Potencialize seu negócio!" />
+      <title>Agendamento Inteligente para Clínicas | AutomIA</title>
+<meta name="description" content="Automatize o agendamento de consultas da sua clínica com inteligência artificial. Reduza faltas e maximize sua produtividade!" />
+
       </Head>
       <Header />
       <main style={{ backgroundColor: '#f9f9f9' }}>
